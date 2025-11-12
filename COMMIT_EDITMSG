@@ -1,0 +1,14 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   restaurant-menu/src/App.js
+#	new file:   restaurant-menu/src/components/AdminDashboard.jsx
+#	modified:   restaurant-menu/src/components/MenuPage.jsx
+#	new file:   restaurant-menu/src/services/firebase.js
+#	new file:   restaurant-menu/src/services/menuService.js
+#
